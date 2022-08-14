@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631305201 source:c:\users\yordanov\documents\c++\bots\bot.cpp
+	<iostream>
+	<string>
+
